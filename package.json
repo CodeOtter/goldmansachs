@@ -1,0 +1,29 @@
+{
+  "name": "goldmansachs",
+  "version": "1.0.0",
+  "description": "Converts an characters into yellow/gold N'ko, a modern unifier of the Manding langauges spoken by mansas throughout medieval North Africa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeOtter/goldmansachs.git"
+  },
+  "keywords": [
+    "gold",
+    "mansa",
+    "characters",
+    "convert",
+    "text"
+  ],
+  "author": "Patrick Ryan <patrick.ryan@codeotter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeOtter/goldmansachs/issues"
+  },
+  "homepage": "https://github.com/CodeOtter/goldmansachs",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
