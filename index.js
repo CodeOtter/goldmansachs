@@ -2,8 +2,9 @@ require('colors');
 
 /**
  * Converts characters into yellow/gold N'ko, a modern unifier of the Manding languages spoken by mansas throughout medieval North Africa.
+ * @param  String
+ * @return String
  */
-
 function GoldMansaChs(text) {
   for(var i in chs) {
     var regex = new RegExp(i, 'gi')
@@ -35,7 +36,7 @@ var chs = {
   "gb": "ߜ",
   "s": "ߛ",
   "rr": "ߚ",
-  //"n"": "ߒ",  // JavaScript doesn't like this character :O
+  "n": "ߒ",
   "y": "ߦ",
   "w": "ߥ",
   "h": "ߤ",
