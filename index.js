@@ -1,7 +1,7 @@
 require('colors');
 
 /**
- * Converts an characters into yellow/gold N'ko, a modern unifier of the Manding langauges spoken by mansas throughout medieval North Africa.
+ * Converts characters into yellow/gold N'ko, a modern unifier of the Manding languages spoken by mansas throughout medieval North Africa.
  */
 
 function GoldMansaChs(text) {

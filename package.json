@@ -1,7 +1,7 @@
 {
   "name": "goldmansachs",
-  "version": "1.0.1",
-  "description": "Converts an characters into yellow/gold N'ko, a modern unifier of the Manding languages spoken by mansas throughout medieval North Africa.",
+  "version": "1.0.2",
+  "description": "Converts characters into yellow/gold N'ko, a modern unifier of the Manding languages spoken by mansas throughout medieval North Africa.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
